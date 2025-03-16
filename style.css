@@ -383,7 +383,7 @@ main .recent-orders a{
     color: var(--color-primary);
 }
 
-/* Right Section */
+/* Right Section */ 
 
 .right{
     margin-top: 1.4rem;
@@ -452,3 +452,9 @@ main .recent-orders a{
     box-shadow: none;
 }
 
+.right .recent-updates .updates .update{
+    display: grid;
+    grid-template-columns: 2.6rem auto;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
