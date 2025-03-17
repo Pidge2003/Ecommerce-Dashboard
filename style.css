@@ -1,7 +1,9 @@
 /* Font */
+
 @import url(https://fonts.googleapis.com/css2?family=Poppings:wght@300;400;500;600;700;800&display=swap);
 
 /* Root Variables */
+
 :root{
     --color-primary: #7380ec;
     --color-danger: #ff7782;
@@ -230,6 +232,7 @@ aside .sidebar .message-count{
 }
 
 /* Main Section */
+
 main {
     margin-top:1.4rem;
 }
@@ -432,6 +435,7 @@ main .recent-orders a{
 }
 
 /* Recent Updates */
+
 .right .recent-updates{
     margin-top: 1rem;
 }
