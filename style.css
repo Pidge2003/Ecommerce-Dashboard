@@ -569,8 +569,8 @@ main .recent-orders a{
         width: 83vw;
     }
 
-    main table thead tr td:last-child,
-    main table thead tr td:first-child {
+    main table thead tr th:last-child,
+    main table thead tr th:first-child {
         display: none;
     }
 
